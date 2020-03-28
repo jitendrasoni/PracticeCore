@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using PracticeCore.Models;
+using AutoMapper;
 
 namespace PracticeCore.Controllers
 {
@@ -20,6 +21,8 @@ namespace PracticeCore.Controllers
 
         public IActionResult Index()
         {
+            // Need to send some data.
+            
 
             return View();
 

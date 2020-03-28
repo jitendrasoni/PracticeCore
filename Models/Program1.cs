@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using AutoMapper;
-namespace PracticeCoreConsole.Practice
+namespace PracticeCore.Models
 {
 
     class Program1
